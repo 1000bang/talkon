@@ -2,6 +2,9 @@
 
 ## 소켓통신 구현하기 - 개인 프로젝트
 
+## 프로젝트 기한 :
+22-10-25 ~ 22-10-31
+
 ## 프로젝트 목표 :
 
 서버프로그램 생성
@@ -22,55 +25,6 @@
 
 방 리스트 띄우기 
 
-1. **유저 /  관리자 페이지** 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e43203ea-e052-4b6e-8d5f-c7c14442620b/Untitled.png)
-
-1. **관리자가 서버를 열고 유저가 로그인시 화면** 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fffa6b8-5488-4e74-936c-37a068f430d0/Untitled.png)
-
-1. **대화방 생성 ( 현재 인원 선택 지원 안함 …)** 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/965643be-93f0-48de-9dc3-2ddc0dd7edc3/Untitled.png)
-
-3.1 validation 처리 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab839cdb-2f9b-441f-a16e-00e8c1f99ced/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b12c712-c510-4610-a5e4-a88e72e57a86/Untitled.png)
-
-3.2 방 생성시 관리자에게 생성과 입장을 알림 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5de9b8bf-02ae-4dfd-9d2e-87ae375573d9/Untitled.png)
-
-**4.  대화방 전체 리스트 표시**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7a30081c-bbed-4248-aa4f-df2d71746b46/Untitled.png)
-
-1.  **전체 인원 표시**
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d401007-9c5a-4b90-842f-c92834bfbf85/Untitled.png)
-
-**6. 개인 메세지 보내기** 
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66d8e4cc-2de9-4b5c-9bf2-5ac7d20460dd/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67127919-5431-4603-9f57-6fcd888e0e5a/Untitled.png)
-
-1. **대화방 입장과 양뱡향 채팅** 
-
-입장시 방에 접속한 유저에게 메세지  
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bf97ecb-1463-4fe3-b7ea-b0949a3d0c15/Untitled.png)
-
-양방향 대화 기능
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d422fdfc-3e2e-4709-8c66-7a325c3c65b9/Untitled.png)
-
-채팅방 나갔을 때 기능 아직 구현 안됨 ..
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f353a5c-480f-497c-811e-a44e4148864c/Untitled.png)
 
 ## 보완할 점 :
 
@@ -81,3 +35,59 @@
 ## 느낀점 :
 
 클라이언트와 서버간 프로토콜을 정해 양방향 소통을 구현할 수 있음에 프로젝트 기간 중 흥미를 많이 느꼈고 생각했던 만큼 진행히 원활히 되지않아 좌절감도 많이 경험했다. 여러 프레임이 생성되다 보니 객체를 사용하는데 nullpoint 때문에 고생했고  naming이 헷갈려 고생했다. 프로젝트를 통해 싱글톤 패턴의 필요성, 유용성도 깨달았고 naming의 중요성도 깨달을 수 있었다. 빨리 spring을 배우고싶었다….
+
+
+## 프로젝트 이미지 :
+
+1. **유저 /  관리자 페이지** 
+
+![Untitled](https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png)
+
+2. **관리자가 서버를 열고 유저가 로그인시 화면** 
+
+![2](https://user-images.githubusercontent.com/113667600/214863485-1604d228-9e91-4e9d-a5c7-577e4102835a.png)
+
+
+3. **대화방 생성 ( 현재 인원 선택 지원 안함 …)** 
+
+![3](https://user-images.githubusercontent.com/113667600/214863597-ae815a92-cfc4-4ed9-8283-8f5f64d7d363.png)
+
+3.1 validation 처리 
+
+![3 2](https://user-images.githubusercontent.com/113667600/214863585-8273bde7-df18-4c0f-b0a6-7f4e0f834329.png) |
+![3 1](https://user-images.githubusercontent.com/113667600/214863591-bb5772b8-f6ac-4ba6-be7c-aabd8708c61e.png)
+--- | --- |
+
+3.2 방 생성시 관리자에게 생성과 입장을 알림 
+
+![3 3](https://user-images.githubusercontent.com/113667600/214863582-972f1791-cb09-4cf2-b75e-fa748c3b9b22.png)
+
+**4.  대화방 전체 리스트 표시**
+
+![4](https://user-images.githubusercontent.com/113667600/214863877-b3c3281c-bfa2-49dc-a81c-05fd8c01d510.png)
+
+5.  **전체 인원 표시**
+
+![5](https://user-images.githubusercontent.com/113667600/214863937-33f9f79f-2ee3-4d83-b72c-1d80e927620a.png)
+
+**6. 개인 메세지 보내기** 
+
+![6](https://user-images.githubusercontent.com/113667600/214864145-a6983d8e-142f-4b01-be70-c24eb4f68115.png)
+
+![6 1](https://user-images.githubusercontent.com/113667600/214864168-22edeccc-db0d-414c-bbb3-03819321a68b.png)
+
+
+7. **대화방 입장과 양뱡향 채팅** 
+
+입장시 방에 접속한 유저에게 메세지  
+
+![7](https://user-images.githubusercontent.com/113667600/214864318-39e936da-2cb7-4215-bb24-d74c9cfb8ee4.png)
+
+
+양방향 대화 기능
+
+![7 1](https://user-images.githubusercontent.com/113667600/214864348-63384262-f8e8-441d-ad1a-87566bb5b1cc.png)
+
+채팅방 나갔을 때 기능 아직 구현 안됨 ..
+
+![7 2](https://user-images.githubusercontent.com/113667600/214864345-cfef2c8d-d8a3-450f-907a-3b2fb71e7618.png)
