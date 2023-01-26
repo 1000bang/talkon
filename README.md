@@ -39,7 +39,7 @@
 
 1. **유저 /  관리자 페이지** 
 
-<img src = 'https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png' width = '2000' height = '500'/>
+<img src = 'https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png' width = '600' height = '400'/>
 
 2. **관리자가 서버를 열고 유저가 로그인시 화면** 
 
@@ -50,7 +50,7 @@
 3. **대화방 생성 ( 현재 인원 선택 지원 안함 …)** 
 
 
-<img src = 'https://user-images.githubusercontent.com/113667600/214863597-ae815a92-cfc4-4ed9-8283-8f5f64d7d363.png' width = '2000' height = '950'/>
+<img src = 'https://user-images.githubusercontent.com/113667600/214863597-ae815a92-cfc4-4ed9-8283-8f5f64d7d363.png' width = '600' height = '400'/>
 
 3.1 validation 처리 
 
@@ -73,7 +73,7 @@
 5.  **전체 인원 표시**
 
 
-<img src = 'https://user-images.githubusercontent.com/113667600/214863937-33f9f79f-2ee3-4d83-b72c-1d80e927620a.png' width = '2000' height = '950'/>
+<img src = 'https://user-images.githubusercontent.com/113667600/214863937-33f9f79f-2ee3-4d83-b72c-1d80e927620a.png' width = '600' height = '400'/>
 
 **6. 개인 메세지 보내기** 
 
