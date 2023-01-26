@@ -39,7 +39,7 @@
 
 1. **유저 /  관리자 페이지** 
 
-<img src = 'https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png' width = '2000' height = '950'/>
+<img src = 'https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png' width = '2000' height = '500'/>
 
 2. **관리자가 서버를 열고 유저가 로그인시 화면** 
 
