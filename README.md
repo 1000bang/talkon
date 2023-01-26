@@ -56,10 +56,10 @@
 3.1 validation 처리 
 
 
-<img src = 'https://user-images.githubusercontent.com/113667600/214863585-8273bde7-df18-4c0f-b0a6-7f4e0f834329.png' width = '600' height = '400'/>
+<img src = 'https://user-images.githubusercontent.com/113667600/214863585-8273bde7-df18-4c0f-b0a6-7f4e0f834329.png' width = '600' height = '200'/>
 
 
-<img src = 'https://user-images.githubusercontent.com/113667600/214863591-bb5772b8-f6ac-4ba6-be7c-aabd8708c61e.png' width = '600' height = '400'/>
+<img src = 'https://user-images.githubusercontent.com/113667600/214863591-bb5772b8-f6ac-4ba6-be7c-aabd8708c61e.png' width = '600' height = '200'/>
 
 
 
