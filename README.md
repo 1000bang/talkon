@@ -1,6 +1,4 @@
-# talkon
-
-## 소켓통신 구현하기 - 개인 프로젝트
+# talkon 소켓통신 구현하기 - 개인 프로젝트
 
 ## 프로젝트 기한 :
 22-10-25 ~ 22-10-31
@@ -41,53 +39,65 @@
 
 1. **유저 /  관리자 페이지** 
 
-![Untitled](https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png)
+<img src = 'https://user-images.githubusercontent.com/113667600/214863391-3d96e2e8-e38a-4dde-a21b-23af7695c1a0.png' width = '400' height = '300'/>
 
 2. **관리자가 서버를 열고 유저가 로그인시 화면** 
 
-![2](https://user-images.githubusercontent.com/113667600/214863485-1604d228-9e91-4e9d-a5c7-577e4102835a.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863485-1604d228-9e91-4e9d-a5c7-577e4102835a.png'/>
 
 
 3. **대화방 생성 ( 현재 인원 선택 지원 안함 …)** 
 
-![3](https://user-images.githubusercontent.com/113667600/214863597-ae815a92-cfc4-4ed9-8283-8f5f64d7d363.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863597-ae815a92-cfc4-4ed9-8283-8f5f64d7d363.png' width = '400' height = '300'/>
 
 3.1 validation 처리 
 
-![3 2](https://user-images.githubusercontent.com/113667600/214863585-8273bde7-df18-4c0f-b0a6-7f4e0f834329.png) |
-![3 1](https://user-images.githubusercontent.com/113667600/214863591-bb5772b8-f6ac-4ba6-be7c-aabd8708c61e.png)
---- | --- |
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863585-8273bde7-df18-4c0f-b0a6-7f4e0f834329.png'/>
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863591-bb5772b8-f6ac-4ba6-be7c-aabd8708c61e.png'/>
+
 
 3.2 방 생성시 관리자에게 생성과 입장을 알림 
 
-![3 3](https://user-images.githubusercontent.com/113667600/214863582-972f1791-cb09-4cf2-b75e-fa748c3b9b22.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863582-972f1791-cb09-4cf2-b75e-fa748c3b9b22.png'/>
 
 **4.  대화방 전체 리스트 표시**
 
-![4](https://user-images.githubusercontent.com/113667600/214863877-b3c3281c-bfa2-49dc-a81c-05fd8c01d510.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863877-b3c3281c-bfa2-49dc-a81c-05fd8c01d510.png'/>
 
 5.  **전체 인원 표시**
 
-![5](https://user-images.githubusercontent.com/113667600/214863937-33f9f79f-2ee3-4d83-b72c-1d80e927620a.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214863937-33f9f79f-2ee3-4d83-b72c-1d80e927620a.png' width = '400' height = '300'/>
 
 **6. 개인 메세지 보내기** 
 
-![6](https://user-images.githubusercontent.com/113667600/214864145-a6983d8e-142f-4b01-be70-c24eb4f68115.png)
 
-![6 1](https://user-images.githubusercontent.com/113667600/214864168-22edeccc-db0d-414c-bbb3-03819321a68b.png)
+<img src = 'https://user-images.githubusercontent.com/113667600/214864145-a6983d8e-142f-4b01-be70-c24eb4f68115.png'/>
+
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214864168-22edeccc-db0d-414c-bbb3-03819321a68b.png'/>
 
 
 7. **대화방 입장과 양뱡향 채팅** 
 
 입장시 방에 접속한 유저에게 메세지  
 
-![7](https://user-images.githubusercontent.com/113667600/214864318-39e936da-2cb7-4215-bb24-d74c9cfb8ee4.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214864318-39e936da-2cb7-4215-bb24-d74c9cfb8ee4.png'/>
 
 
 양방향 대화 기능
 
-![7 1](https://user-images.githubusercontent.com/113667600/214864348-63384262-f8e8-441d-ad1a-87566bb5b1cc.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214864348-63384262-f8e8-441d-ad1a-87566bb5b1cc.png'/>
 
 채팅방 나갔을 때 기능 아직 구현 안됨 ..
 
-![7 2](https://user-images.githubusercontent.com/113667600/214864345-cfef2c8d-d8a3-450f-907a-3b2fb71e7618.png)
+
+<img src = 'https://user-images.githubusercontent.com/113667600/214864345-cfef2c8d-d8a3-450f-907a-3b2fb71e7618.png'/>
